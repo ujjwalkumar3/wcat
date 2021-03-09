@@ -17,7 +17,7 @@ function appendContent(input) {
                 console.log('Updated');
               });
         } else {
-            console.log("File Not Exists");
+            console.log("File Not Exist");
         }
     });
 
